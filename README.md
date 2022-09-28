@@ -1,5 +1,5 @@
-# Webpack configurado
+# Aplicacion de lista de tareas
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+Esta aplciación sirve para hacer un check list de cosas por hacer 
 
-Pero esto lo veremos en la siguiente sección
+
